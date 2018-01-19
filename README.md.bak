@@ -5,4 +5,4 @@
 # C# Client Library
 For our .NET SparkPost user-base, we wholeheartedly endorse the [csharp-sparkpost](https://github.com/darrencauthon/csharp-sparkpost) client library. Darren Cauthon's efforts in building and maintaining [csharp-sparkpost](https://github.com/darrencauthon/csharp-sparkpost) have produced a solid and mature SparkPost API client for the .NET community.
 
-Learn more about the SparkPost and C# at dev.sparkpost.com/csharp.
+Learn more about the SparkPost and C# at [dev.sparkpost.com/csharp](http://dev.sparkpost.com/csharp).
